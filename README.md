@@ -29,7 +29,7 @@
 
 
 ## About
-Corscan is a tool designed to inspect and assess Cross-Origin Resource Sharing (CORS) headers for potential vulnerabilities. It supports single URL checks and batch processing from files.
+HelioCORS is a tool designed to inspect and assess Cross-Origin Resource Sharing (CORS) headers for potential vulnerabilities. It supports single URL checks and batch processing from files.
 ## Disclaimer
  This tool is for ethical hacking, legal, and educational use only. Any illegal use is strictly prohibited.
 
